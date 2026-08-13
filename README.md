@@ -134,12 +134,21 @@ A secure authentication platform built using Spring Boot and React with OTP veri
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanketkumar100&theme=tokyonight"
-    alt="GitHub Profile Summary"
+    src="https://github-readme-stats.vercel.app/api?username=sanketkumar100&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    alt="Sanket's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketkumar100&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    alt="Sanket's Top Languages"
   />
 </p>
 
