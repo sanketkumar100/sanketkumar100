@@ -1,32 +1,231 @@
 <h1 align="center">Hi 👋, I'm Sanket Kumar</h1>
-<h3 align="center">Building scalable applications with Java, Spring Boot, Microservices & AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketkumar100&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkumar100" /> </p>
+<h3 align="center">
+Java Full Stack Developer | Spring Boot | Microservices | AI
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketkumar100" alt="sanketkumar100" /></a> </p>
-
-- 🔭 I’m currently working on [AI-Powered Fitness Tracking System](https://github.com/sanketkumar100/AI-Powered-Fitness-Tracking-System)
-
-- 🌱 I’m currently learning **Advanced Spring Boot, Microservices, AWS & AI Integration**
-
-- 👯 I’m looking to collaborate on [AI-Powered Fitness Tracking System](https://github.com/sanketkumar100/AI-Powered-Fitness-Tracking-System)
-
-- 🤝 I’m looking for help with [AI-Powered Fitness Tracking System](https://github.com/sanketkumar100/AI-Powered-Fitness-Tracking-System)
-
-- 💬 Ask me about **Java, Spring Boot, Microservices, REST APIs, Spring Security & Backend Development**
-
-- 📫 How to reach me **sanketkumar7645@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning ideas into real-world projects and learning new technologies by building things.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanket-kumar-java" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanket-kumar-java" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/sanketkumar100">
+    <img src="https://komarev.com/ghpvc/?username=sanketkumar100&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/sanketkumar100?tab=followers">
+    <img src="https://img.shields.io/github/followers/sanketkumar100?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/sanket-kumar-java">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanket%20Kumar-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sanketkumar7645@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanketkumar100&show_icons=true&locale=en&layout=compact" alt="sanketkumar100" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanketkumar100&show_icons=true&locale=en" alt="sanketkumar100" /></p>
+## 👨‍💻 About Me
+
+I'm a **Java Full Stack Developer** focused on building scalable and secure backend systems using **Java, Spring Boot and Microservices**.
+
+- 🔭 Currently working on **AI-Powered Fitness Tracking System**
+- 🌱 Learning **Advanced Spring Boot, Microservices, AWS & AI Integration**
+- 💡 Interested in **Backend Development, Distributed Systems & AI-powered applications**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, Microservices & Spring Security**
+- 🤝 Open to collaborating on interesting **Java, Spring Boot & AI projects**
+- 📫 Reach me at **sanketkumar7645@gmail.com**
+- ⚡ Fun fact: **I learn best by turning ideas into real-world projects.**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,sql" />
+</p>
+
+### 🚀 Backend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
+
+**Spring Boot • Spring Security • Spring Data JPA • Hibernate • REST APIs • Microservices • API Gateway • Eureka**
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+**PostgreSQL • MongoDB • MySQL • SQL Server**
+
+### ☁️ Cloud, DevOps & Messaging
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,rabbitmq,git,github" />
+</p>
+
+**Docker • Docker Compose • AWS • RabbitMQ • Git • GitHub**
+
+### 🔐 Security & AI
+
+**Keycloak • OAuth2 • JWT • PKCE • Google Gemini API**
+
+---
+
+# 🚀 Featured Projects
+
+## 🏋️ AI-Powered Fitness Tracking System
+
+A microservices-based fitness platform that uses AI to generate personalized workout recommendations.
+
+**Tech:** Java • Spring Boot • Microservices • RabbitMQ • PostgreSQL • MongoDB • Keycloak • Docker • Google Gemini
+
+### Key Features
+
+- 🔹 User, Activity and AI microservices
+- 🔹 API Gateway & Eureka service discovery
+- 🔹 RabbitMQ asynchronous communication
+- 🔹 Google Gemini AI-powered recommendations
+- 🔹 Keycloak OAuth2/JWT authentication
+- 🔹 PostgreSQL & MongoDB
+- 🔹 Docker Compose containerization
+
+<p>
+  <a href="https://github.com/sanketkumar100/AI-Powered-Fitness-Tracking-System">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🔐 Full-Stack Authentication System
+
+A secure authentication platform built using Spring Boot and React with OTP verification and JWT authorization.
+
+**Tech:** Java • Spring Boot • Spring Security • React • JWT • MySQL • JavaMail
+
+### Key Features
+
+- 🔹 Email-based OTP verification
+- 🔹 JWT authentication & authorization
+- 🔹 Role-Based Access Control
+- 🔹 REST APIs
+- 🔹 Password encryption
+- 🔹 Protected routes
+- 🔹 Postman API testing
+
+<p>
+  <a href="https://github.com/sanketkumar100">
+    <img src="https://img.shields.io/badge/View%20GitHub-Repository-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=sanketkumar100&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight"
+       alt="Sanket's GitHub Stats"/>
+       
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketkumar100&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+       alt="Sanket's Top Languages"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanketkumar100&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanketkumar100&theme=tokyo-night&hide_border=true"
+       alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanketkumar100&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"
+       alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 📌 Repository Highlights
+
+<p align="center">
+
+<a href="https://github.com/sanketkumar100/AI-Powered-Fitness-Tracking-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketkumar100&repo=AI-Powered-Fitness-Tracking-System&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/sanketkumar100">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketkumar100&repo=Auth-Sphere&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+# 📚 Certifications
+
+- 🎓 **Java Full Stack Developer** — Coursera / Board Infinity
+- 🎓 **SQL: A Practical Introduction for Querying Databases** — Coursera / IBM
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Deepen my expertise in **Spring Boot & Microservices**
+- ☁️ Improve my **AWS & Cloud Architecture** skills
+- 🤖 Build more applications integrating **AI with backend systems**
+- 🧩 Strengthen **Data Structures & Algorithms**
+- 💼 Start my professional journey as a **Software Developer**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sanket-kumar-java">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sanketkumar7645@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/sanketkumar100">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Building. Learning. Improving. 🚀</b>
+</p>
