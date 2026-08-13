@@ -149,7 +149,7 @@ A secure authentication platform built using Spring Boot and React with OTP veri
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketkumar100&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats-sanket100.vercel.app/api/top-langs/?username=sanketkumar100&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
     alt="Sanket's Top Languages"
   />
 </p>
