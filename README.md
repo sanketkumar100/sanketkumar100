@@ -180,8 +180,6 @@ A secure authentication platform built using Spring Boot and React with OTP veri
 
 ## 📌 Repository Highlights
 
-## 📌 Repository Highlights
-
 <p align="center">
 
 <a href="https://github.com/sanketkumar100/AI-Powered-Fitness-Tracking-System">
