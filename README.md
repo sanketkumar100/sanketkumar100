@@ -136,11 +136,13 @@ A secure authentication platform built using Spring Boot and React with OTP veri
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sanketkumar100&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=sanketkumar100&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
     alt="Sanket's GitHub Stats"
   />
 </p>
@@ -172,12 +174,20 @@ A secure authentication platform built using Spring Boot and React with OTP veri
 
 ---
 
-# 🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanketkumar100&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"
-       alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=sanketkumar100&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1"
+    alt="GitHub Trophies"
+  />
 </p>
+
+---
+
+---
 
 ---
 
@@ -186,11 +196,11 @@ A secure authentication platform built using Spring Boot and React with OTP veri
 <p align="center">
 
 <a href="https://github.com/sanketkumar100/AI-Powered-Fitness-Tracking-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketkumar100&repo=AI-Powered-Fitness-Tracking-System&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketkumar100&repo=AI-Powered-Fitness-Tracking-System&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/sanketkumar100">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketkumar100&repo=Auth-Sphere&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/sanketkumar100/AuthSphere">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanketkumar100&repo=AuthSphere&theme=tokyonight&hide_border=true" />
 </a>
 
 </p>
