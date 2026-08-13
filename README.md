@@ -159,8 +159,10 @@ A secure authentication platform built using Spring Boot and React with OTP veri
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanketkumar100&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=sanketkumar100&theme=tokyonight&hide_border=true"
+    alt="Sanket's GitHub Streak"
+  />
 </p>
 
 ---
