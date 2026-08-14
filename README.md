@@ -218,7 +218,6 @@ A secure authentication platform built using Spring Boot and React with OTP veri
 - 💼 Start my professional journey as a **Software Developer**
 
 ---
-
 # 🤝 Let's Connect
 
 <p align="center">
