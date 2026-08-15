@@ -186,6 +186,13 @@ A microservices-based fitness platform that uses AI to generate personalized wor
 
 <p align="center">
 
+<a href="https://github.com/sanketkumar100/bloodconnect">
+  <img
+    src="https://github-readme-stats-sanket100.vercel.app/api/pin/?username=sanketkumar100&repo=bloodconnect&theme=tokyonight&hide_border=true"
+    alt="BloodConnect"
+  />
+</a>
+
 <a href="https://github.com/sanketkumar100/AI-Powered-Fitness-Tracking-System">
   <img
     src="https://github-readme-stats-sanket100.vercel.app/api/pin/?username=sanketkumar100&repo=AI-Powered-Fitness-Tracking-System&theme=tokyonight&hide_border=true"
