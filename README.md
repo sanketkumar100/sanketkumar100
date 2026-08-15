@@ -84,6 +84,33 @@ I'm a **Java Full Stack Developer** focused on building scalable and secure back
 
 # 🚀 Featured Projects
 
+## 🩸 BloodConnect — Graph-Powered Emergency Blood Discovery
+
+A graph-powered blood discovery platform that finds nearby blood banks and donors based on blood-type compatibility and area proximity. Built using CognoDB and openCypher to model compatibility and geographic relationships as a graph.
+
+**Tech:** Java • Spring Boot • React • Vite • CognoDB • Cypher • Neo4j Java Driver • Vercel • Render
+
+### Key Features
+- 🔹 Search blood sources by blood group, area, and radius
+- 🔹 Graph-based blood-type compatibility using `COMPATIBLE_WITH` relationships
+- 🔹 Multi-hop nearby-area traversal using `NEAR` relationships
+- 🔹 Search across blood banks and donors
+- 🔹 Compatibility graph explorer
+- 🔹 Source details with availability and contact information
+- 🔹 REST API built with Spring Boot
+- 🔹 Hosted frontend and backend with CognoDB as the database
+
+<p>
+  <a href="https://github.com/sanketkumar100/bloodconnect">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://bloodconnect-lemon.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-Vercel-red?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
+
+---
+
 ## 🏋️ AI-Powered Fitness Tracking System
 
 A microservices-based fitness platform that uses AI to generate personalized workout recommendations.
@@ -105,31 +132,6 @@ A microservices-based fitness platform that uses AI to generate personalized wor
     <img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
----
-
-## 🔐 Full-Stack Authentication System
-
-A secure authentication platform built using Spring Boot and React with OTP verification and JWT authorization.
-
-**Tech:** Java • Spring Boot • Spring Security • React • JWT • MySQL • JavaMail
-
-### Key Features
-
-- 🔹 Email-based OTP verification
-- 🔹 JWT authentication & authorization
-- 🔹 Role-Based Access Control
-- 🔹 REST APIs
-- 🔹 Password encryption
-- 🔹 Protected routes
-- 🔹 Postman API testing
-
-<p>
-  <a href="https://github.com/sanketkumar100">
-    <img src="https://img.shields.io/badge/View%20GitHub-Repository-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
 ---
 
 ---
